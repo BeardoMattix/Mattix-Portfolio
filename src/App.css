@@ -3,6 +3,7 @@
 body {
   font-family: "Roboto Condensed" sans-serif;
   background-color: red;
+  padding: 10px;
 }
 /******* Navbar *******/
 .logo {
@@ -11,17 +12,21 @@ body {
 }
 
 /*---------- Menu Links ----------*/
-nav a.nav-link {
+nav a.nav-item {
   font-weight: 500;
   letter-spacing: 0.0375rem;
   cursor: pointer;
+  color: #dc7a4a;
 }
 nav ul li {
   text-transform: uppercase;
 }
-#nav-link-text {
+/* #nav-item {
   font-size: 1.5rem;
   margin-top: 1.5rem;
   color: #dc7a4a;
   text-shadow: 1px 1px 0px #d73905;
+} */
+.home-header {
+  color: #dc7a4a;
 }

@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  font-size: 1.5rem;
+  background-color: #2f6675;
+}
+.navbar a {
+  display: flex;
+  justify-content: flex-end;
+  color: #dc7a4a;
+}
+.navbar a:hover {
+  color: #d73905;
+}
