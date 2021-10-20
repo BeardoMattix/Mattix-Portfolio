@@ -9,3 +9,14 @@
   color: white;
   text-align: center;
 }
+.project-card {
+  width: 20rem;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-bottom: 5px;
+  justify-content: center;
+}
+.card-body {
+  background-color: #2f6675;
+  border-top: 2px solid black;
+}

@@ -12,3 +12,7 @@
 .navbar a:hover {
   color: #d73905;
 }
+.navbar-nav {
+  display: flex;
+  justify-content: flex-end !important;
+}
