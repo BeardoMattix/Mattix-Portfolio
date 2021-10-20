@@ -1,23 +1,26 @@
 import React from "react";
-import "../styles/Home.css";
+import "../styles/Projects.css";
 import CodeSocial from "../../code_social_demo.gif";
 import Skillet from "../../landing-demo.gif";
 import Quiz from "../../code-quiz-demo.gif";
 
 export default function Projects() {
   return (
-    <div className="container home-container">
-      <h1 className="home-header">Projects</h1>
+    <div className="container projects-container">
+      <h1 className="projects-header">Projects</h1>
       <p>
-        Welcome to my portfolio. I am a Full Stack Developer who utilizes the
-        MERN stack. On this page you can see some of the projects I've worked
-        on.
+        Here are some examples of projects I've worked on. They range in
+        complexity, and I love learning new framworks and technologies.
       </p>
       <div class="container">
         <div class="row align-items-center">
           <div class="col">
-            <div className="card project-card bg-dark">
-              <img src={CodeSocial} class="card-img-top" alt="..."></img>
+            <div className="card project-card">
+              <img
+                src={CodeSocial}
+                class="card-img-top"
+                alt="Code Social Demo"
+              ></img>
               <div className="card-body">
                 <h5 className="card-title">Code Social</h5>
                 <p className="card-text">
@@ -36,8 +39,12 @@ export default function Projects() {
             </div>
           </div>
           <div class="col">
-            <div className="card project-card bg-dark">
-              <img src={Skillet} class="card-img-top" alt="..."></img>
+            <div className="card project-card ">
+              <img
+                src={Skillet}
+                class="card-img-top"
+                alt="Skillet and Shaker Demo"
+              ></img>
               <div className="card-body">
                 <h5 className="card-title">Skillet & Shaker</h5>
                 <p className="card-text">
@@ -50,8 +57,8 @@ export default function Projects() {
             </div>
           </div>
           <div class="col">
-            <div className="card project-card bg-dark">
-              <img src={Quiz} class="card-img-top" alt="..."></img>
+            <div className="card project-card">
+              <img src={Quiz} class="card-img-top" alt="Code Quiz Demo"></img>
               <div className="card-body">
                 <h5 className="card-title">Code Social</h5>
                 <p className="card-text">

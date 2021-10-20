@@ -1,8 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
 
 body {
-  font-family: "Roboto Condensed" sans-serif;
-  background-color: red;
+  font-family: "Roboto Condensed" sans-serif !important;
   padding: 10px;
 }
 /******* Navbar *******/
@@ -27,6 +26,3 @@ nav ul li {
   color: #dc7a4a;
   text-shadow: 1px 1px 0px #d73905;
 } */
-.home-header {
-  color: #dc7a4a;
-}
