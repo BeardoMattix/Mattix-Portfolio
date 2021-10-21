@@ -5,7 +5,6 @@
   font-size: 5.5rem;
   text-align: center;
 }
-
 .resume-download {
   color: white;
   font-size: 1.5rem;
@@ -26,4 +25,14 @@
   text-align: center;
   list-style-type: none;
   letter-spacing: 1rem;
+}
+.resume-link {
+  color: #dc7a4a;
+}
+.resume-download a:focus {
+  color: #dc7a4a;
+}
+.resume-download a:hover {
+  color: #d73905;
+  text-decoration: none;
 }
