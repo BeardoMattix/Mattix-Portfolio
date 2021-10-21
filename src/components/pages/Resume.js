@@ -1,5 +1,6 @@
 import React from "react";
 import "../styles/Resume.css";
+import MattixResume from "../../MattixResume.pdf";
 
 export default function Resume() {
   return (
@@ -19,7 +20,17 @@ export default function Resume() {
         <i class="fab fa-accessible-icon"></i>
       </p>
       <p className="resume-download">
-        Click here to download a copy of my resume!
+        Click{" "}
+        <a
+          className="resume-link"
+          href={MattixResume}
+          download="CMattix_resume"
+          target="_blank"
+          rel="noreferrer"
+        >
+          here
+        </a>{" "}
+        to download a copy of my resume!
       </p>
     </div>
   );

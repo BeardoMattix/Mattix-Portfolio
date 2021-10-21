@@ -4,6 +4,32 @@ export default function Contact() {
   return (
     <div className="container">
       <h1 className="contact-header">Contact Me</h1>
+      <a
+        className="contact-me-links"
+        href="https://github.com/BeardoMattix"
+        target="_blank"
+        rel="noreferrer"
+      >
+        GitHub: <i class="fab fa-github"></i>
+      </a>
+      <br></br>
+      <a
+        className="contact-me-links"
+        href="https://www.linkedin.com/in/christopher-j-mattix-4773b736/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        LinkedIn: <i class="fab fa-linkedin"></i>
+      </a>
+      <br></br>
+      <a
+        className="contact-me-links"
+        href="https://twitter.com/MattixnotMatrix"
+        target="_blank"
+        rel="noreferrer"
+      >
+        Twitter: <i class="fab fa-twitter"></i>
+      </a>
       <form
         action="https://formsubmit.co/christopher.mattix@gmail.com"
         method="POST"

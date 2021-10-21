@@ -6,8 +6,8 @@ body {
 }
 /******* Navbar *******/
 .logo {
-  width: 11.25rem;
-  height: 11.25rem;
+  width: 12.25rem;
+  height: 12.25rem;
 }
 
 /*---------- Menu Links ----------*/
@@ -16,6 +16,8 @@ nav a.nav-item {
   letter-spacing: 0.0375rem;
   cursor: pointer;
   color: #dc7a4a;
+  margin-top: 30px;
+  vertical-align: baseline;
 }
 nav ul li {
   text-transform: uppercase;
