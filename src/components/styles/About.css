@@ -16,5 +16,8 @@
   width: fit-content;
   height: fit-content;
   float: right;
+  border: 8px solid #0c3429;
   margin-bottom: 1.5rem;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
 }
