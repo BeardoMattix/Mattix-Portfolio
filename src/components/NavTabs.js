@@ -1,6 +1,7 @@
 import React from "react";
 import "./styles/Navbar.css";
 import logo from "../logo.png";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
@@ -13,14 +14,14 @@ function NavTabs({ currentPage, handlePageChange }) {
           className="navbar-toggler"
           type="button"
           data-bs-toggle="collapse"
-          data-bs-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent"
+          data-bs-target="#mainNav"
+          aria-controls="mainNav"
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span className="navbar-toggler-icon"></span>
+          <span className="navbar-toggler-icon">+</span>
         </button>
-        <div className="collapse navbar-collapse" id="navbarSupportedContent">
+        <div className="collapse navbar-collapse" id="mainNav">
           <ul className="navbar-nav ms-auto mb-0 mb-lg-0">
             <li className="nav-item">
               <a

@@ -26,3 +26,9 @@
   display: flex;
   justify-content: flex-end !important;
 }
+.navbar-toggler-icon {
+  background-color: #dc7a4a;
+  border-radius: 20px;
+  padding-top: 4px;
+  font-weight: bold;
+}
