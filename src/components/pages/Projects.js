@@ -8,10 +8,7 @@ export default function Projects() {
   return (
     <div className="container projects-container">
       <h1 className="projects-header">Projects</h1>
-      <p>
-        Here are some examples of projects I've worked on. They range in
-        complexity, and I love learning new framworks and technologies.
-      </p>
+
       <div class="container">
         <div class="row align-items-center">
           <div class="col">
@@ -24,14 +21,14 @@ export default function Projects() {
               <div className="card-body">
                 <h5 className="card-title">Code Social</h5>
                 <p className="card-text">
-                  Code Social is a social media application that helps new and
-                  experienced developers connect and share insights.
+                  A social media application that helps new and experienced
+                  developers connect and share insights.
                 </p>
                 <a
                   href="http://secure-meadow-77946.herokuapp.com/"
                   rel="noreferrer"
                   target="_blank"
-                  className="btn btn-primary"
+                  className="btn "
                 >
                   Deployed Site
                 </a>
@@ -48,9 +45,15 @@ export default function Projects() {
               <div className="card-body">
                 <h5 className="card-title">Skillet & Shaker</h5>
                 <p className="card-text">
-                  A recipe search engine for food and cocktails.
+                  A recipe search engine for food and cocktails. Search by
+                  ingredient or diet, and save your favorites.
                 </p>
-                <a href="/" className="btn btn-primary">
+                <a
+                  href="https://likearollinson.github.io/recipe-finder/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn "
+                >
                   Deployed Site
                 </a>
               </div>
@@ -60,12 +63,17 @@ export default function Projects() {
             <div className="card project-card">
               <img src={Quiz} class="card-img-top" alt="Code Quiz Demo"></img>
               <div className="card-body">
-                <h5 className="card-title">Code Social</h5>
+                <h5 className="card-title">JavaScript Code Quiz</h5>
                 <p className="card-text">
-                  Code Social is a social media application that helps new and
-                  experienced developers connect and share insights.
+                  This is a simple quiz application that test the user's
+                  knowledge of basic JS.
                 </p>
-                <a href="/" className="btn btn-primary">
+                <a
+                  href="https://beardomattix.github.io/Code-Quiz/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="btn "
+                >
                   Deployed Site
                 </a>
               </div>
