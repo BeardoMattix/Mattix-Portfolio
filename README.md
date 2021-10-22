@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Welcome to my Portfolio!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Learn all about me and my journey as a developer.
 
-## Available Scripts
+#### This is a React web application built using HTML, CSS, JS, Bootstrap, and FormSubmit as the email client. Employers can use this page to learn about me, the projects I have worked on, view my various social media accounts, and download my current resume.
 
-In the project directory, you can run:
+## Link to Deployed Site
 
-### `npm start`
+[Portfolio](https://beardomattix.github.io/Portfolio/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Table of Contents
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [Motivation and Technologies](#motivation)
+- [Functionality](#functionality)
+- [Challenges](#challenges)
+- [Usage](#usage)
 
-### `npm test`
+## Motivation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Because this portfolio was built using React, I wanted to spend the time to learn as much as possible; which is why I decided to start from scratch and build and entirely new verision of my portfolio.
 
-### `npm run build`
+#### Technologies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- CSS
+- JavaScript
+- Bootstrap
+- FormSubmit
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Functionality
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Portfolio-demo](https://user-images.githubusercontent.com/82903201/127873720-85edb49e-e372-4519-ac90-f53628414727.gif)
 
-### `npm run eject`
+#### The demo shows the main functions of my Portfolio:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Users can navigate the site using the Explore dropdown menu.
+- Projects are displayed as animated gifs, and include links to the deployed sites and the GitHub repositories.
+- When a user click on the resume, a copy is downloaded onto their device.
+- GitHub and LinkedIn profiles are updated.
+- The Contact Me section includes links to GitHub, LinkedIn, and Twitter, as well as my email address and a form for asking questions.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Challenges
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+The main challenge I faced with this project was deigning a mobile-first site. I wanted my portfilio to look and function well on mobile devices, and spent a lot of time making sure the site functioned on smaller screens.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Usage
 
-## Learn More
+- Employers can quickly see my projects and resume.
+- Employers can get a sense of my visual design skills.
+- Employers can use the "Contact Me" section to see my social media accounts, ask questions, and email me.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Future Development
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Make the site run accross multiple pages to make the information stand out better.
+- Include a list of technologies I am familiar with.
+- Include animations to make the projects section look better.
