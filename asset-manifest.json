@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Mattix-Portfolio/static/css/main.6c877da7.chunk.css",
+    "main.js": "/Mattix-Portfolio/static/js/main.881c3010.chunk.js",
+    "main.js.map": "/Mattix-Portfolio/static/js/main.881c3010.chunk.js.map",
+    "runtime-main.js": "/Mattix-Portfolio/static/js/runtime-main.81f45e6c.js",
+    "runtime-main.js.map": "/Mattix-Portfolio/static/js/runtime-main.81f45e6c.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Mattix-Portfolio/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b225994d.chunk.js": "/Mattix-Portfolio/static/js/2.b225994d.chunk.js",
+    "static/js/2.b225994d.chunk.js.map": "/Mattix-Portfolio/static/js/2.b225994d.chunk.js.map",
+    "index.html": "/Mattix-Portfolio/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Mattix-Portfolio/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.6c877da7.chunk.css.map": "/Mattix-Portfolio/static/css/main.6c877da7.chunk.css.map",
+    "static/js/2.b225994d.chunk.js.LICENSE.txt": "/Mattix-Portfolio/static/js/2.b225994d.chunk.js.LICENSE.txt",
+    "static/media/MattixResume.5208ef7b.pdf": "/Mattix-Portfolio/static/media/MattixResume.5208ef7b.pdf",
+    "static/media/blue-shirt.4e822c87.jpg": "/Mattix-Portfolio/static/media/blue-shirt.4e822c87.jpg",
+    "static/media/code-quiz-demo.5596573b.gif": "/Mattix-Portfolio/static/media/code-quiz-demo.5596573b.gif",
+    "static/media/code_social_demo.f0dfacfc.gif": "/Mattix-Portfolio/static/media/code_social_demo.f0dfacfc.gif",
+    "static/media/landing-demo.831aacf4.gif": "/Mattix-Portfolio/static/media/landing-demo.831aacf4.gif",
+    "static/media/logo.a1c6c7c1.png": "/Mattix-Portfolio/static/media/logo.a1c6c7c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81f45e6c.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b225994d.chunk.js",
+    "static/css/main.6c877da7.chunk.css",
+    "static/js/main.881c3010.chunk.js"
+  ]
+}
