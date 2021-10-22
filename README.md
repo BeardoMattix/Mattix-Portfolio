@@ -6,7 +6,7 @@
 
 ## Link to Deployed Site
 
-[Portfolio]()
+[Portfolio](https://beardomattix.github.io/Mattix-Portfolio/)
 
 ## Table of Contents
 
