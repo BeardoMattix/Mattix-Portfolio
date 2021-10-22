@@ -14,7 +14,7 @@
 - [Functionality](#functionality)
 - [Challenges](#challenges)
 - [Usage](#usage)
-- [Licenses](#licenses)
+- [Licenses](#Licenses)
 
 ## Motivation
 
@@ -53,6 +53,6 @@ The main challenge I faced with this project was using React and learning how to
 
 - Include animations to make the projects section look better.
 
-## Licenses :
+## Licenses
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
