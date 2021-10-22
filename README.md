@@ -29,7 +29,7 @@ Because this portfolio was built using React, I wanted to spend the time to lear
 
 ## Functionality
 
-![Portfolio-demo](https://user-images.githubusercontent.com/82903201/127873720-85edb49e-e372-4519-ac90-f53628414727.gif)
+![React Portfolio Demo](https://user-images.githubusercontent.com/82903201/138504912-fd6dcefd-cacb-4296-9634-a4409c82281f.gif)
 
 ## Challenges
 
