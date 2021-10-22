@@ -1,14 +1,14 @@
 import React from "react";
 import "./styles/Navbar.css";
-import logo from "../logo.png";
+
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <nav className="navbar sticky-top navbar-expand-lg ">
       <div className="container-fluid">
-        <a className="navbar-brand" href="/">
-          <img src={logo} alt="Mattix Logo" className="logo"></img>
+        <a className="navbar-brand flex-shrink" href="/">
+          C.MATTIX
         </a>
         <button
           className="navbar-toggler"
@@ -31,7 +31,7 @@ function NavTabs({ currentPage, handlePageChange }) {
                   currentPage === "Projects" ? "nav-link active" : "nav-link"
                 }
               >
-                Projects
+                Portfolio
               </a>
             </li>
             <li className="nav-item">

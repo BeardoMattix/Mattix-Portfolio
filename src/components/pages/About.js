@@ -1,11 +1,16 @@
 import React from "react";
 import "../styles/About.css";
 import Mattix from "../../blue-shirt.jpg";
+import logo from "../../logo.png";
 
 export default function About() {
   return (
     <div>
-      <h1 className="about-header">About Me</h1>
+      <h1 className="about-header">
+        <div className="logo-back">
+          <img src={logo} alt="logo" className="logo"></img>
+        </div>
+      </h1>
       <div className="container">
         <div className="col about-me-column">
           <img

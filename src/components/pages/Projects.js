@@ -7,7 +7,7 @@ import Quiz from "../../code-quiz-demo.gif";
 export default function Projects() {
   return (
     <div className="container projects-container">
-      <h1 className="projects-header">Projects</h1>
+      <h1 className="projects-header">Portfolio</h1>
 
       <div class="container">
         <div class="row align-items-center">
