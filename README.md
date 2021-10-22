@@ -31,6 +31,13 @@ Because this portfolio was built using React, I wanted to spend the time to lear
 
 ![React Portfolio Demo](https://user-images.githubusercontent.com/82903201/138504912-fd6dcefd-cacb-4296-9634-a4409c82281f.gif)
 
+- Navigate using the navbar links.
+- View portfolio.
+- Read about me.
+- Download a copy of my resume.
+- Contact me by submitting a question.
+- Visit my social media profiles (GitHub, LinkedIn, Twitter).
+
 ## Challenges
 
 The main challenge I faced with this project was using React and learning how to break things into different components. Once I had the Navbar working the right way, it became easier and easier to create the individual components and have them render properly on the page.
