@@ -6,7 +6,7 @@
 
 ## Link to Deployed Site
 
-[Portfolio](https://beardomattix.github.io/Portfolio/)
+[Portfolio]()
 
 ## Table of Contents
 
@@ -41,7 +41,7 @@ Because this portfolio was built using React, I wanted to spend the time to lear
 
 ## Challenges
 
-The main challenge I faced with this project was deigning a mobile-first site. I wanted my portfilio to look and function well on mobile devices, and spent a lot of time making sure the site functioned on smaller screens.
+The main challenge I faced with this project was using React and learning how to break things into different components. Once I had the Navbar working the right way, it became easier and easier to create the individual components and have them render properly on the page.
 
 ## Usage
 
@@ -51,6 +51,4 @@ The main challenge I faced with this project was deigning a mobile-first site. I
 
 ## Future Development
 
-- Make the site run accross multiple pages to make the information stand out better.
-- Include a list of technologies I am familiar with.
 - Include animations to make the projects section look better.
